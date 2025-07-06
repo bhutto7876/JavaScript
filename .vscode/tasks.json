@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "Run JavaScript on Save",
+			"command": "node Programming.js",
+			"args": [],
+			"isBackground": true,
+			"group": "build",
+			"problemMatcher": []
+		}
+	]
+}
